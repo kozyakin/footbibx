@@ -1,4 +1,4 @@
-# footbibx - a version of footbib style tolerant to LaTeX output routine updates
+# footbibx - au update of footbib style tolerant to LaTeX output routine updates
 
 Пакет `footbib.sty` (Eric Domenjoud, последняя официальная версия 2.0.7 от 2007/02/20) предоставлял богатые возможности для создания библиографических ссылок в виде подстрочных примечаний. К сожалению, после какого-то из обновлений ядра LaTeX в середине второго десятилетия 2000-х этот пакт перестал работать. Причина этого в том, что в пакет `footbib.sty` были "жестко зашиты" добавления к output routine ядра LaTeX. В Интернете появились рекомендации по замене пакета `footbib.sty` возможностями пакета `biblatex.sty`. Однако, на мой вкус, ни одна из этих рекомендаций не заменяла полностью возможности пакета `footbib.sty`.
 
